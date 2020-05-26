@@ -1,0 +1,11 @@
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\bin\Debug\MVCalculate.exe.config
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\bin\Debug\MVCalculate.exe
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\bin\Debug\MVCalculate.pdb
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.csprojResolveAssemblyReference.cache
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.Main.resources
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.f123.resources
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.Properties.Resources.resources
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.csproj.GenerateResource.Cache
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.exe
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.pdb
+D:\0.temp\TempProgrammingFiles\CSSgeneralTest\MVCalculate\MVCalculate\obj\Debug\MVCalculate.f123Limits.resources
