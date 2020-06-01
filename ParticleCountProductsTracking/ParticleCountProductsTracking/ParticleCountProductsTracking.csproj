@@ -53,6 +53,7 @@
       <DependentUpon>ParticleCountDataTracking.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
+    <Compile Include="SQLGetResults.cs" />
     <EmbeddedResource Include="ParticleCountDataTracking.resx">
       <DependentUpon>ParticleCountDataTracking.cs</DependentUpon>
     </EmbeddedResource>
